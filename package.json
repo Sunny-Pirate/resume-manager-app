@@ -6,6 +6,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@next/font": "^13.0.1",
     "eslint-config-next": "^13.0.1",
     "next": "^13.0.1",
     "react": "^18.2.0",
@@ -13,6 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
-    "@types/react": "^18.0.24"
+    "@types/react": "^18.0.24",
+    "sass": "^1.55.0"
   }
 }
